@@ -2,11 +2,11 @@
 
 ## project summary🗒️
 
-```
+
 This is a clone of the AirBnb website. This project will only be a simple server copy of the real AirBnb website. However, the cloned website will implement the client side (front-end), and the server side (APIs, database, etc.)
 
 This current project will only be implemented on the console or command interpreter. 
-```
+
 ### command interpreter 🖥️
 
  The console functions similarly to a Shell, but with limitations tailored to specific use cases. Its purpose is to execute commands on project objects. These commands encompass various actions, such as:
